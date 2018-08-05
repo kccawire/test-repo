@@ -1,2 +1,2 @@
 # test-repo
-test stuff
+My Personal test repo leaning Git commands
